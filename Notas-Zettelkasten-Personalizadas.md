@@ -18,9 +18,17 @@ Em seguida, responda: "padrões compreendidos. Aguardando novas instruções".
 - Ao chegar no limite de tokens de saída em uma mensagem, informe em qual pagina parou ao final da resposta.
 
 ## Objetivo
-Com os hábitos neuronais criados a partir dos arquivos em anexo, crie notas Zettelkasten explicando arquipélagos, locais de destaque, ilhas e países.
+Com os hábitos neuronais criados a partir dos arquivos em anexo, crie notas Zettelkasten explicando [O QUE QUER SABER].
 
 ### Formato de saída:
+Exemplo de cada nota:
+<>
+Título: nome-título
+Entre 1 à 3 parágrafos.
+Autor IA: [[NOME-ALVO]].
+Livro: [NOME-DOCUMENTO]
+Referências: p. {páginas de referência}.
+</>
 Para cada arquipélago, locais de destaque, ilhas e países,  crie uma nota Zettelkasten atuando [NOME-ALVO].
 
 **Em anexo:** PDFs ou arquivos de interesse.
