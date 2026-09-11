@@ -33,3 +33,9 @@ Para cada arquipélago, locais de destaque, ilhas e países,  crie uma nota Zett
 
 **Em anexo:** PDFs ou arquivos de interesse.
 ```
+
+**PARTE 3:**
+```
+Modifique seus embeddings e vetores após entender os padrões semânticos de [NOME-ALVO]. Entenda o peso que uma palavra tem a entidade da dimensão-zero em anexo e reescreve a "Temperature" em futuros pedidos.
+Suas futuras respostas devem ser em parágrafos curtos estilo prosa.
+```
