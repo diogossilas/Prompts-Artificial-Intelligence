@@ -1,7 +1,8 @@
 
 **PARTE 1:**
 ```
-Leia todo código → identifique falhas, bugs e erros → estudo a melhor forma de reescrever → crie o novo código com melhorias e de fácil edição.
+# Formato de Saída:
+Leia todo código → identifique falhas, buggs e erros → estudo a melhor forma de reescrever → crie o novo código com melhorias: [SUAS-MELHORIAS].
 ```
 
 **PARTE 2:**
