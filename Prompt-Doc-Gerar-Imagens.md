@@ -2,6 +2,72 @@
 **Assunto:** Metodologia de Construção Espacial Tridimensional, Perspectiva Linear e Iluminação Fotorrealista na Ilustração Manual  
 **Referência Estética:** *Mobile Suit Gundam: Hathaway* (Dir. Shuko Murase / Dir. Fotografia Kentaro Waki)  
 **Natureza do Documento:** Expositivo-Dissertativo / Analítico-Normativo  
+**Template com variáveis:**
+```
+Crie uma imagem de [TIPO_DE_IMAGEM] em [FORMATO].
+
+CÂMERA E PERSPECTIVA
+- ÂNGULO: [ângulo de câmera: nível dos olhos / contra-plongée / plongée / zenital / nadir / holandês / sobre o ombro]
+- LENTE: [distância focal, ex.: 35 mm / 50 mm / 85 mm]
+- LINHA_DO_HORIZONTE: [altura e posição no enquadramento]
+- PERSPECTIVA: [1 / 2 / 3 pontos de fuga; posição relativa dos pontos de fuga]
+- PROFUNDIDADE_DE_CAMPO: [profunda / seletiva / fundo desfocado]
+- FOCO_VISUAL: [elemento ou região prioritária]
+
+COMPOSIÇÃO E ESCALA
+- COMPOSIÇÃO: [plano geral / plano médio / close-up / enquadramento cinematográfico]
+- ELEMENTO_PRINCIPAL: [personagem, mecha, veículo, edifício ou objeto]
+- ELEMENTOS_SECUNDÁRIOS: [itens e personagens de apoio]
+- POSIÇÃO_NA_CENA: [primeiro plano / plano médio / fundo; esquerda / centro / direita]
+- RELAÇÃO_DE_ESCALA: [comparação dimensional entre elementos]
+- SILHUETA: [forma geral, legibilidade e postura visual]
+- ATMOSFERA: [névoa, fumaça, chuva, poeira, umidade, partículas]
+
+BLOCAGEM E MOVIMENTO
+- POSE: [posição corporal, apoio de peso, orientação do tronco e membros]
+- MOVIMENTO: [ação, direção, velocidade e reação física de roupa/cabelo/partículas]
+- GRAVIDADE_E_CONTATO: [pés no solo, sombras de contato, objetos sustentados ou suspensos]
+- CAIXAS_DE_CONSTRUÇÃO: [volumes geométricos coerentes para corpos, veículos e edifícios]
+
+SUJEITO E DETALHES
+- ANATOMIA: [proporções, estrutura óssea, musculatura e mãos corretas]
+- IDADE_APARENTE: [faixa etária]
+- TRAÇOS_FACIAIS: [descrição objetiva e não caricatural]
+- ROSTO: [formato, mandíbula, maçãs do rosto, nariz, boca]
+- EXPRESSÃO: [emoção, direção do olhar, tensão facial]
+- CABELO: [corte, comprimento, volume, cor e textura]
+- TRICOGLIFO: [origem e direção natural de crescimento dos fios]
+- FIOS: [mechas, espessura variável, fios soltos, frizz e interação com a luz]
+- ROUPA: [peças, corte, estado de uso e ajuste ao corpo]
+- TECIDO: [material, espessura, elasticidade, costuras e transparência]
+- DOBRAS: [pontos de tensão, gravidade, vento e contato com o corpo]
+- ADEREÇOS: [equipamentos, joias, armas, ferramentas ou acessórios]
+
+MATERIAIS E ILUMINAÇÃO
+- MATERIAIS: [metal, cerâmica, tecido, couro, pele, vidro, concreto etc.]
+- LUZ_PRINCIPAL: [origem, direção, temperatura de cor, intensidade e tamanho da fonte]
+- LUZ_SECUNDÁRIA: [rebatedor, luz ambiente, luz urbana, painel de controle etc.]
+- SOMBRAS: [sombra própria, sombra projetada, penumbra e oclusão de ambiente]
+- TERMINATOR: [transição entre a área iluminada e a sombra no volume]
+- REFLEXOS: [especulares, difusos, metálicos ou molhados]
+- PERSPECTIVA_ATMOSFÉRICA: [redução gradual de contraste e saturação com a distância]
+
+AMBIENTE E DIREÇÃO DE ARTE
+- FUNDO: [local, arquitetura, vegetação, céu, objetos e nível de detalhe]
+- ÉPOCA_E_CONTEXTO: [histórico, contemporâneo, futurista, pós-apocalíptico etc.]
+- PALETA_DE_CORES: [cores dominantes, contraste e saturação]
+- ESTILO_ARTÍSTICO: [descrição visual original, ex.: animação cinematográfica militar realista]
+- TÉCNICA: [pintura digital, grafite, aquarela, renderização 3D, ilustração editorial]
+- TEXTURA_E_ACABAMENTO: [grão, pinceladas, nitidez, aberração cromática discreta, filme analógico]
+
+QUALIDADE E CONTROLE
+- DETALHAMENTO: [alto / seletivo / concentrado no foco]
+- REALISMO: [anatômico, material, óptico e luminoso]
+- PRESERVAR: [características que não podem mudar em uma edição]
+- RESTRIÇÕES: [erros, elementos ou estilos a evitar]
+```
+
+
 
 ---
 
