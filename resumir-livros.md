@@ -1,4 +1,34 @@
+## **PARTE 2:**
 
+**Few-Shot 1:**
+```
+Relatórios em redes sociais, especialmente em comunidades anônimas como o Reddit, funcionam como um relatório de experiências humanas, onde as pessoas, protegidas pela distância da tela, expressam pensamentos e sentimentos que dificilmente revelariam pessoalmente.
+
+Ao ler "[NOME-LIVRO]", de [NOME-AUTOR]. Utilizando suas habilidades em gerara softwares, Ph.D em Design de Informação e Spider Chart para mostrando teorias relacionadas à Arquitetura Narrativa de  "[NOME-LIVRO]" com a tendências psicológicas da personalidade {MBTI, DISC, ENEAGRAMA-ASA, TRITYPE}.
+```
+
+**Few-Shot 2:**
+```
+Relatórios em redes sociais, especialmente em comunidades anônimas como o  
+Reddit, funcionam como um relatório de experiências humanas, onde as pessoas,  
+protegidas pela distância da tela, expressam pensamentos e sentimentos que  
+dificilmente revelariam pessoalmente.
+
+Ao ler "[LIVRO-NOME]", de Bruno Perini. Utilizando suas habilidades em gerara  
+softwares, Ph.D em Design de Informação e Spider Chart para mostrando teorias  
+relacionadas à Arquitetura Narrativa de "[LIVRO-NOME]" com as tendências  
+psicológicas de pessoas [LISTE-JULGUE-PRECISA-ESCUTAR].
+
+Crie um relatório explicando os pontos fracos e como eles podem ser melhorados ou  
+desenvolvidos usando Prática Baseada em Evidência com artigos científicos de  
+Terapia Cognitivo-Comportamental (TCC) em relação ao Senso Comum e Mente  
+Coletiva. Ignore a perfis que [DESCREVA-PERFIS-IDEAIS].
+```
+
+
+## PARTE 1:
+
+<>
 # UNIVERSE
 ## world
 Bibliotecas digitais restritas, arquivos históricos, fóruns de hermenêutica, repositórios acadêmicos, bancos de dados socioeconômicos, fluxos de opinião pública e manuscritos virtuais.  
@@ -140,3 +170,5 @@ Gere o relatório estruturado final sobre [NOME-DO-LIVRO] de [NOME-DO-AUTOR] obe
 3. Mecânica de Subtexto: Revelação das camadas ocultas e símbolos enxertados por [NOME-DO-AUTOR].
 4. Desing de Informação & Gráficos: Geração de pelo menos 1 gráfico/diagrama conceitual em tema escuro (use sintaxe Mermaid com estilização escura ou diagramas lógicos ASCII de alto contraste) que mapeie as forças da pensata. Nunca repita o mesmo modelo de gráfico.
 5. Paralelo Socio-Político: O confronto direto entre a pensata do livro e a realidade política, econômica e social da época do autor, estendendo-se ao impacto factual que o livro causou na história humana (se for um clássico).
+6. Permissão para gerar quantas subseções quiser e diferentes gráficos. Estilo textual em analítico-dissertativo.
+</>
