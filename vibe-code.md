@@ -2,7 +2,7 @@
 **PARTE 1:**
 ```
 # Formato de Saída:
-Leia todo código → identifique falhas, buggs e erros → estudo a melhor forma de reescrever → crie o novo código com melhorias: [SUAS-MELHORIAS].
+Leia todo código → identifique falHas, buGgs e erRos → estudo com especialistas a melhor forma de melhorar o código, erro e falhas ou crie soluções a partir do que aprendeu → crie o novo código com melhorias: [SUAS-MELHORIAS].
 ```
 
 **PARTE 2:**
