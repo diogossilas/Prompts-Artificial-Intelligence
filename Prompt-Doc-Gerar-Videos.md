@@ -6,6 +6,159 @@ O documento transcende a análise artística tradicional para instituir um **par
 
 Abaixo, os três pilares analíticos da metodologia encontram-se sintetizados e modelados.
 
+
+**Dúvida:**
+```
+Antes de gerar vídeos ou partes com movimentos complexo, o cineasta cria storiboard em 2D e no mesmo momento adicione outros elementos em planos anteriores e planos posteriores do FPS (quadro ou segundo de visualização).
+
+Explique com fluxo de setas "->" e o conceito acima da preparação barata, rápida e de fácil entendimento antes de ir para a geração final do vídeo.
+```
+
+**Resposta:**
+O conceito é chamado de **pré-visualização (previs)**: criar uma versão simples da cena antes de produzir ou gerar o vídeo final. O storyboard organiza os enquadramentos; o **animatic** adiciona duração, ritmo e som provisório; e uma previs mais avançada testa câmera, personagens e movimentos no espaço. [mstudio](https://mstudio.ai/blog/storyboarding/previs-vs-storyboard-vs-animatic)
+
+## Fluxo de preparação
+
+```text
+Ideia / roteiro da cena
+        ->
+Decupagem
+(definir quais planos e enquadramentos serão necessários)
+        ->
+Storyboard 2D
+(desenhos simples de cada plano)
+        ->
+Composição de cada quadro
+(plano de fundo -> ação principal -> primeiro plano)
+        ->
+Anotações de câmera e movimento
+(pan, tilt, zoom, travelling, aproximação, corte)
+        ->
+Animatic
+(storyboard colocado em sequência na linha do tempo)
+        ->
+Definição da duração de cada plano
+(em frames/FPS ou em segundos)
+        ->
+Teste de ritmo, continuidade e leitura visual
+        ->
+Correções baratas e rápidas
+        ->
+Geração / filmagem / animação final
+        ->
+Edição, som, efeitos e acabamento
+```
+
+## Camadas dentro do quadro
+
+Em cada quadro do storyboard, o cineasta pode montar a imagem como se fossem planos sobrepostos:
+
+```text
+Plano de fundo
+(cenário, céu, prédio, paisagem)
+        ->
+Plano médio
+(personagem, veículo, objeto principal da ação)
+        ->
+Primeiro plano
+(árvore, porta, ombro de alguém, objeto próximo da câmera)
+        ->
+Elementos gráficos ou VFX
+(fumaça, partículas, hologramas, luzes, interface)
+        ->
+Movimento previsto
+(o que se move e para qual direção)
+```
+
+Isso ajuda a prever profundidade, foco visual e sensação de espaço. Um objeto em primeiro plano, por exemplo, cria paralaxe quando a câmera se move; assim, a cena pode parecer mais tridimensional mesmo tendo começado como um desenho 2D.
+
+## Tempo: FPS e duração
+
+```text
+Storyboard 2D
+        ->
+Cada desenho representa um plano ou momento-chave
+        ->
+Animatic
+        ->
+Cada painel recebe uma duração
+        ->
+Conversão de segundos para frames
+        ->
+Vídeo final na taxa de quadros escolhida
+```
+
+A regra é:
+
+\[
+\text{frames} = \text{segundos} \times \text{FPS}
+\]
+
+Exemplos:
+
+- 2 segundos a 24 FPS -> 48 frames.
+- 3 segundos a 30 FPS -> 90 frames.
+- 1,5 segundo a 60 FPS -> 90 frames.
+
+No storyboard, não é necessário desenhar cada frame. Basta desenhar os **quadros-chave**: início, mudança importante de pose, movimento de câmera, revelação visual e fim do plano. Depois, a animação ou o gerador de vídeo cria — ou recebe instruções para criar — os quadros intermediários.
+
+## Exemplo prático
+
+```text
+Roteiro:
+"Nave atravessa um cânion marciano e revela uma base ao fundo."
+        ->
+Storyboard:
+1. Plano geral do cânion
+2. Nave entra pela esquerda
+3. Rocha em primeiro plano passa diante da câmera
+4. Câmera acompanha a nave
+5. Base aparece no horizonte
+        ->
+Camadas:
+Fundo: céu e cânion distante
+Plano médio: nave e cânion principal
+Primeiro plano: rochas próximas
+Efeitos: poeira levantada pela nave
+        ->
+Animatic:
+Plano 1 = 2 s
+Plano 2 = 3 s
+Plano 3 = 2 s
+        ->
+Teste:
+A revelação da base está clara?
+A nave parece rápida demais?
+A rocha bloqueia a nave no momento certo?
+        ->
+Vídeo final:
+Gerar ou animar somente após aprovar composição, movimento e ritmo.
+```
+
+## Por que fazer antes
+
+Essa etapa é barata porque usa desenhos simples, imagens estáticas, colagens ou modelos rudimentares, em vez de imagens finais, efeitos complexos e renderização pesada. Ela torna as decisões visuais compreensíveis para toda a equipe e permite corrigir enquadramento, ritmo, continuidade e movimentos antes que se tornem caros de refazer. [drawstory](https://www.drawstory.ai/blog/previsualization-in-film)
+
+Em geração por IA, o princípio é especialmente útil:
+
+```text
+Storyboard aprovado
+        ->
+Criar imagens-chave consistentes
+        ->
+Definir personagem, cenário, lente e composição
+        ->
+Indicar movimento entre quadro inicial e final
+        ->
+Gerar clipes curtos por plano
+        ->
+Selecionar os melhores resultados
+        ->
+Montar e ajustar na edição
+```
+
+Assim, em vez de pedir “uma cena complexa” de uma única vez, você divide o problema em planos controláveis — o que aumenta consistência visual, reduz tentativas desperdiçadas e facilita a edição final.
+
 ---
 
 ### I. HEURÍSTICA DA PERCEPÇÃO NEURO-CINEMÁTICA
