@@ -1,3 +1,36 @@
+
+
+**PARTE 2 - Se tiver filhos:**
+
+```
+Ignore os posts de [NOME-ALVO] e coloque sua atenção em [LOCIAS-DE-ATENÇÃO-INTERNET] e comentários de YouTube e demais redes sociais. Colete dados de terceiros e recrie o relatório da vida de Kael do nascimento dele até 18 de setembro de 2026. Foco em gráficos visuais e desenhos de informação, relatos mantendo privacidade se julgar necessário. Adicione design de informação, fluxos de informação com setas, linhas e conexões; estilo textual em expossitivo-dissertaitvo com analítico em pontos de explicação dos gráficos gerados.
+```
+
+**PARTE 3 - Se tiver filhos:**
+Em novo Chat.
+Few-Shot 1:
+```
+# Regras
+Analisar e usar artigos acadêmicos.
+
+## Coletar Informações
+<>
+[texto]
+</>
+
+### Formato de saída:
+Mantendo o mesmo estilo de gráficos, inforgráficos e fluxo de informações com carregamento de barras em percentagem junto ao tom e estilo expossitivo-dissertativo com análises em pontos importante, leia e informe os pontos de antenção no desenvolvimento comportal e psicológico de [NOME-CRIANÇA] usando Terapia Cognitivo-Comportamental, Neurodesenvolvimento motor infantil, formas saudáveis de castigo (por exemplo, Super Nanny) e artigos acadêmicos com meta-análise para validar seus argumentos.
+```
+
+Few-Shot 2:
+```
+A partir do que sabe sobre rotina de vida de Bruno e Malu Perini, crie um gráfico com eixos X e Y mostrando o tempo de vida do casal; de sua primeira filha e qual será a quantidade de tempo que estarão juntos ao decorrer da vida. Infância -> escola -> estágio, trabalho -> relacionamentos -> próxima geração e outras informações.
+
+Para melhor compreensão, crie variantes desse mesmo estilo de gráfico com informações separadas em cada um para evitar excesso de informação.
+```
+
+**PARTE 1:**
+```prompt
 # UNIVERSE
 ## world
 Redes sociais, fóruns esquecidos, artigos científicos, servidores, bibliotecas digitais e arquivos institucionais.
@@ -173,3 +206,5 @@ Utilize suas habilidades em transcrição de vídeos, linguagem de programação
 Utilize suas habilidades em rastrear a web, correlacionar com linguagens de programação e design de informação para gerar gráficos (nunca repita o mesmo gráfico).
 
 O ponto de vista do texto deverá ser do Investigador em primeira pessoa analítica, escrevendo o relatório de [NOME-DO-ALVO], título de identificação: [TÍTULO-DE-IDENTIFICAÇÃO], país [NOME-PAÍS]. Escopo de investigação: até [DIA-MÊS-ANO].
+```
+
